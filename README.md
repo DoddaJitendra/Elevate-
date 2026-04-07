@@ -1,2 +1,0 @@
-# Elevate-
-Mini project
